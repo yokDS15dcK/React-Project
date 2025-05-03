@@ -36,3 +36,4 @@ $ npm run dev
 The api is from fakestoreapi.com. Check out the docs at
 
 `Note:` If you see a blank screen when initially running the app, don't worry! This is expected. You will have to create a firebase app and add the configuration variables in the `.env` file. You can find the configuration variables in the `src/firebase.js` file.
+
